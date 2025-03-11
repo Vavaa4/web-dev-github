@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Ez egy uj commit!
-=======
 Ez is az elso commit-om!
->>>>>>> feature
 
 Itt jon a 2-es szamu commit!
