@@ -1,3 +1,3 @@
-Ez az en elso commit-om!
+Ez is az elso commit-om!
 
 Itt jon a 2-es szamu commit!
